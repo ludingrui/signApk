@@ -20,4 +20,4 @@ java -Xmx2048m -Djava.library.path=/home/Yzw/android/signapk/lib64 -jar signapk.
 # signapk
 # signapk
 
-修改后面四个参数 .pem    .pk8 的目录   需要打包的apk  签名之后的apk
+修改参数  path目录  .pem    .pk8 的目录   需要打包的apk  签名之后的apk
