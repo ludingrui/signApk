@@ -1,0 +1,3 @@
+   new_signapk可用   old_signapk 没尝试
+
+   进入new_signapk文件夹 打开命令行，运行README里面的命令（注意替换签名文件）。
